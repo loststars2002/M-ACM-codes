@@ -277,4 +277,4 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial-S
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=LostStars2002/M-ACM&type=Date)](https://star-history.com/#LostStars2002/M-ACM&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=LostStars2002/M-ACM-codes&type=Date)](https://star-history.com/#LostStars2002/M-ACM&Date)
