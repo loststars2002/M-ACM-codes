@@ -4,7 +4,7 @@
 
 # <img src="assets/thu-fig-logo.jpg" alt="Tsinghua University" height="30"/> M-ACM: Towards Fine-Grained Human Motion Video Captioning
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg)]()
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.24767)
 [![Conference](https://img.shields.io/badge/ACM%20MM-2025-4b44ce.svg)](https://2025.acmmm.org/)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://loststars2002.github.io/M-ACM/)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
