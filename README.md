@@ -234,14 +234,12 @@ Stay tuned! ⭐ **Star this repo** to get notified when the code is released!
 If you find M-ACM useful for your research, please cite our paper:
 
 ```bibtex
-@inproceedings{song2025macm,
+@inproceedings{song2025towards,
   title={Towards Fine-Grained Human Motion Video Captioning},
   author={Song, Guorui and Wang, Guocun and Huang, Zhe and Lin, Jing and Zhe, Xuefei and Li, Jian and Wang, Haoqian},
   booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
-  pages={1--10},
-  year={2025},
-  organization={ACM},
-  doi={10.1145/3746027.3754560}
+  pages={846--855},
+  year={2025}
 }
 ```
 
